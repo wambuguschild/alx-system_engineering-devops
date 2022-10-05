@@ -1,2 +1,2 @@
 #!/bin/bash
-Display current directory contents with group IDs in numberical order
+Create a script that creates a directory named my_first_directory in the /tmp/ directory
