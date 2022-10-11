@@ -1,2 +1,2 @@
 #!/bin/bash
-The second line
+A file that prints Hello world to your file
