@@ -1,2 +1,2 @@
 #!/bin/bash
-An operation to print hello world
+print hello world
