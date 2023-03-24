@@ -1,2 +1,4 @@
-#!/bin/bash
-A file that prints Hello world to your file
+This folder represents the work
+on web infrastructure project with 
+complete diagrams
+c
